@@ -1,0 +1,12 @@
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\obj\Debug\ConsultasLINQ.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\obj\Debug\ConsultasLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\ConsultasLINQ.exe.config
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\ConsultasLINQ.exe
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\ConsultasLINQ.pdb
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\obj\Debug\ConsultasLINQ.csproj.CopyComplete
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\obj\Debug\ConsultasLINQ.exe
+C:\Users\Andrew\source\repos\ConsultasLINQ\ConsultasLINQ\obj\Debug\ConsultasLINQ.pdb
